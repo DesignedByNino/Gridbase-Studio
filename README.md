@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Gridbase Studio ™ & Gridbase Data Division ™
 
-First, run the development server:
+World, this is the complete web platform and digital home of our Studio - Gridbase Studio and our Digital Business Solution for efficiency - Gridbase Data Division ™
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Approach & Services
 
-## Learn More
+We aim to empower businesses and people with fantastic ideas, to reach a level of excellence in communication and build innovative platforms and strategies for their individual clients.
 
-To learn more about Next.js, take a look at the following resources:
+### Marketing
+- Sales Strategy and Sales Funnels 
+- Information Strategy and Structure
+- Comunication Strategy personalized for specific industry needs and different types of clients
+- Professional Content Creation based on Brand Strategy
+- Professional Brand Management across Social Channels and Physical Print or Events
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Branding and Visual Identity
+- Brand Discovery Srategy based on real world customer data and Branding Questionaires
+- Brand Identity and Visual Design Language
+- Brand Sphere Creation and Theme based Creative Direction
+- Brand Signature and Personality
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Platform/ Web/ Software Development
+- Digital Architecture for Ecosystem Construction
+- Web Platform Strategy and Construction
+- Dedicated Software Integrations and Business Tools for Platform and Ecosystem Productivity
+- CMS Content Management, Architecture and Creation
+- E-Commerce Strategy for Services Professionals and Business Use Case
+- E-Commerce Platform Construction, Management and Consulting
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
